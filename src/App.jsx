@@ -101,7 +101,6 @@ export function App() {
 
 	return (
 		<main>
-			test
 			<div id='game-container'>
 				<ol id='players' className='highlight-player'>
 					<Player
