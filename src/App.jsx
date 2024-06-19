@@ -39,6 +39,7 @@ function deriveGameBoard(gameTurns) {
 }
 function deriveWinner(gameBoard, players) {
 	let winner;
+
 	for (const combination of WINNING_COMBINATIONS) {
 		const firstSquareSymbol =
 			gameBoard[combination[0].row][combination[0].column];
@@ -100,6 +101,7 @@ export function App() {
 
 	return (
 		<main>
+			test
 			<div id='game-container'>
 				<ol id='players' className='highlight-player'>
 					<Player
