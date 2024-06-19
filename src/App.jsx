@@ -6,8 +6,8 @@ import { WINNING_COMBINATIONS } from './winning-combinations';
 import GameOver from './GameOver';
 
 const PLAYERS = {
-	X: 'Player 1',
-	O: 'Plyaer 2',
+	X: 'Player 0',
+	O: 'Plyaer 1',
 };
 
 const INITAIL_GAME_BOARD = [
