@@ -10,6 +10,8 @@ const PLAYERS = {
 	O: 'commits',
 };
 
+let changeInMain;
+
 const INITAIL_GAME_BOARD = [
 	[null, null, null],
 	[null, null, null],
