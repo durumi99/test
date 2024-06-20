@@ -6,8 +6,8 @@ import { WINNING_COMBINATIONS } from './winning-combinations';
 import GameOver from './GameOver';
 
 const PLAYERS = {
-	X: 'Branch Dev2',
-	O: 'initial commit',
+	X: 'Branch Dev',
+	O: 'third commit',
 };
 const tmp = 'DEV2-1';
 
