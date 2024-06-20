@@ -11,6 +11,8 @@ const PLAYERS = {
 };
 const dev22 = 25;
 
+let changeInMain;
+
 const INITAIL_GAME_BOARD = [
 	[null, null, null],
 	[null, null, null],
