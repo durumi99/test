@@ -9,7 +9,6 @@ const PLAYERS = {
 	X: 'Branch Dev2',
 	O: 'commits12345',
 };
-const dev23 = 23;
 
 const INITAIL_GAME_BOARD = [
 	[null, null, null],
