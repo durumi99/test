@@ -7,9 +7,8 @@ import GameOver from './GameOver';
 
 const PLAYERS = {
 	X: 'Branch Dev',
-	O: '6 commits',
+	O: 'commits',
 };
-const dev22 = 22;
 
 const INITAIL_GAME_BOARD = [
 	[null, null, null],
