@@ -7,7 +7,7 @@ import GameOver from './GameOver';
 
 const PLAYERS = {
 	X: 'Branch Dev2',
-	O: 'commits12345',
+	O: '5 commit',
 };
 const dev22 = 22;
 
