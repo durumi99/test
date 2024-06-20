@@ -14,7 +14,7 @@ const tmp = 'DEV2-1';
 let changeInMain = 1;
 let changedInDev;
 
-let changeInMain;
+let changedInDev;
 
 const INITAIL_GAME_BOARD = [
 	[null, null, null],
