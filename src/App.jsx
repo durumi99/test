@@ -6,10 +6,9 @@ import { WINNING_COMBINATIONS } from './winning-combinations';
 import GameOver from './GameOver';
 
 const PLAYERS = {
-	X: 'Branch Dev2',
-	O: 'commits123456',
+	X: 'Branch Main',
+	O: 'commits',
 };
-const dev22 = 22;
 
 const INITAIL_GAME_BOARD = [
 	[null, null, null],
