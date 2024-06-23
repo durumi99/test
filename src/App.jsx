@@ -10,7 +10,7 @@ const PLAYERS = {
 	O: 'commits',
 };
 const tmp = 'DEV2-1';
-const tmp2 = 'ccc';
+const tmp2 = 'e';
 
 let changeInMain = 1;
 let changedInDev;
